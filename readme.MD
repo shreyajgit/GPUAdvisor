@@ -3,6 +3,7 @@
 A full‑stack application to help users discover the best GPUs based on region, budget, and usage timeline, and to interact with a research‑paper–powered chatbot for detailed insights.
 
 Video - https://drive.google.com/file/d/1YuwXrVpLt-1kdGy2C1AQuFUaU68KXBgv/view?usp=sharing
+
 Documentation - https://drive.google.com/file/d/1yUdIYdmQZP2WEUQSlfVG41omk_jmYKGc/view?usp=sharing
 
 ---
