@@ -1,3 +1,6 @@
+
+
+
 # GPU Recommender & Research Chatbot
 
 A full‑stack application to help users discover the best GPUs based on region, budget, and usage timeline, and to interact with a research‑paper–powered chatbot for detailed insights.
@@ -5,6 +8,11 @@ A full‑stack application to help users discover the best GPUs based on region,
 Video - https://drive.google.com/file/d/1YuwXrVpLt-1kdGy2C1AQuFUaU68KXBgv/view?usp=sharing
 
 Documentation - https://drive.google.com/file/d/1yUdIYdmQZP2WEUQSlfVG41omk_jmYKGc/view?usp=sharing
+
+
+GROQ_API_KEY = "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"
+
+ HF_TOKEN = "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"
 
 ---
 
