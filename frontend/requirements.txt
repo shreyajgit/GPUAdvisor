@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain_huggingface
+langchain-text-splitters
+langchain-groq
+openai
+faiss-cpu
+pypdf
+fastapi
+uvicorn
